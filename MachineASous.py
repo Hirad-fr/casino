@@ -1,3 +1,5 @@
+from random import randrange
+
 from Jeu import Jeu
 
 class MachineASous(Jeu):
